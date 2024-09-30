@@ -1,0 +1,7 @@
+C:\Users\harsh\source\repos\employee_api\employee_api\obj\Debug\net8.0\employee_api.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\employee_api\employee_api\obj\Debug\net8.0\employee_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\employee_api\employee_api\obj\Debug\net8.0\employee_api.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\employee_api\employee_api\obj\Debug\net8.0\employee_api.AssemblyInfo.cs
+C:\Users\harsh\source\repos\employee_api\employee_api\obj\Debug\net8.0\employee_api.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\employee_api\employee_api\obj\Debug\net8.0\employee_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harsh\source\repos\employee_api\employee_api\obj\Debug\net8.0\employee_api.MvcApplicationPartsAssemblyInfo.cache
